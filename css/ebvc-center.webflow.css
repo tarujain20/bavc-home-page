@@ -353,8 +353,6 @@ a {
 }
 
 .phase-1-photo {
-  margin-top: 9px;
-  margin-bottom: 10px;
   padding-top: 8px;
   padding-right: 0px;
   padding-left: 0px;
@@ -863,7 +861,20 @@ a {
 }
 
 .headercopy1first {
-  margin-top: 23px;
+  margin-top: 20px;
+  margin-left: 5px;
+  padding-right: 30px;
+  padding-left: 0px;
+  font-family: Lato, sans-serif;
+  color: #7a7a7a;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0.4px;
+}
+
+.headercopy1second {
   margin-left: 5px;
   padding-right: 30px;
   padding-left: 0px;
