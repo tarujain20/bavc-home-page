@@ -130,6 +130,17 @@ a {
   letter-spacing: 0.4px;
 }
 
+.header-main-3 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    font-family: Lato, sans-serif;
+    color: #029;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 0.4px;
+  }
+
 .header-main-lead-copy {
   position: static;
   margin-top: -2px;
