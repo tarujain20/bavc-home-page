@@ -77,6 +77,11 @@ a {
   background-color: #050505;
 }
 
+.property_video_divider {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 .dhamma-wheel {
   position: static;
   margin-top: 0px;
