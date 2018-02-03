@@ -156,6 +156,17 @@ a {
     letter-spacing: 0.4px;
   }
 
+.tradition_font {
+    margin-bottom: 0px;
+    font-family: Lato, sans-serif;
+    color: #029;
+    font-size: 21px;
+    line-height: 50px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 0.4px;
+}
+
 .header-main-lead-copy {
   position: static;
   margin-top: -2px;
@@ -322,6 +333,21 @@ a {
   letter-spacing: 0.50px;
 }
 
+.property-intro {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    background-color: transparent;
+    font-family: Lato, sans-serif;
+    color: #4051ad;
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 0.50px;
+}
+
 .navbar-background-2 {
   padding-bottom: 0px;
   background-color: #fff;
@@ -372,6 +398,12 @@ a {
 .gray-top-container {
   margin-top: 0px;
   background-color: #029;
+}
+
+.yellow-top-container {
+  margin-top: 0px;
+  background-color: #efc72a;
+;
 }
 
 .phase-1-copy-stye {
@@ -613,7 +645,8 @@ a {
 
 .header-copy {
   margin-bottom: 0px;
-  padding-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
   color: #7a7a7a;
   font-size: 18px;
   line-height: 35px;
@@ -1218,6 +1251,10 @@ a {
     padding-bottom: 0px;
     text-align: center;
   }
+  .property-intro {
+    padding-bottom: 0px;
+    text-align: center;
+  }
 }
 
 @media (max-width: 479px) {
@@ -1254,4 +1291,8 @@ a {
     padding-right: 0px;
     padding-left: 0px;
   }
+}
+
+a#facebook_link {
+    text-decoration: none;
 }
