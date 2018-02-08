@@ -1489,6 +1489,7 @@ textarea.w-select {
   float: left;
   text-decoration: none;
   color: #333333;
+  margin-top: 15px;
 }
 .w-nav-link {
   position: relative;
