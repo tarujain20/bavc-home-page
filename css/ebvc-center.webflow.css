@@ -348,6 +348,19 @@ a {
     letter-spacing: 0.50px;
 }
 
+.property-social-media {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: transparent;
+    font-family: Lato, sans-serif;
+    color: #4051ad;
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 0.50px;
+}
+
 .navbar-background-2 {
   padding-bottom: 0px;
   background-color: #fff;
